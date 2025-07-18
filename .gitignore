@@ -4,6 +4,14 @@
 # Autoriser les fichiers Git
 !.gitignore
 
+# Include Previews folder
+/previews/**
+!/previews/**
+
+
+# Include README.md
+!README.md
+
 # Garde ProjectSettings
 !ProjectSettings/
 !ProjectSettings/**
