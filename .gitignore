@@ -1,0 +1,18 @@
+# Ignore tout par défaut
+*
+
+# Autoriser les fichiers Git
+!.gitignore
+
+# Garde ProjectSettings
+!ProjectSettings/
+!ProjectSettings/**
+
+# Garde Scripts seulement
+!Assets/
+!Assets/Scripts/
+!Assets/Scripts/**
+
+# (Optionnel) Garde les packages
+!Packages/
+!Packages/**
