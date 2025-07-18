@@ -12,11 +12,11 @@ Master these five powerful spells through intuitive hand gestures:
 
 | Spell | Gesture | Effect |
 |-------|---------|--------|
-| **Fireball** | Open Palm | Launches a blazing projectile that deals fire damage |
-| **Arcane Blast** | Fist | Unleashes a concentrated burst of magical energy |
+| **Fireball** | Open Palm | Launches a blazing projectile that deals AOE damage |
+| **Arcane Blast** | Fist | Unleashes an AOE burst of magical energy |
 | **Ice Spikes** | Pointer | Creates sharp ice projectiles that slow enemies |
-| **Lightning Bolt** | V-Sign | Strikes with instant electrical damage |
-| **Heal** | Rock-On Sign | Restores your health and mana |
+| **Lightning Bolt** | V-Sign | Strikes with electricity |
+| **Heal** | Rock-On Sign | Restores 50 hp to the nexus |
 
 ## Game Previews
 
