@@ -33,7 +33,7 @@ Master these five powerful spells through intuitive hand gestures:
 
 *Heal the nexus*
 
-![Spell Effects](previews/icespike.png)
+![Spell Effects](previews/icespikes.png)
 
 *Ice spikes*
 
