@@ -22,15 +22,19 @@ Master these five powerful spells through intuitive hand gestures:
 
 <!-- Add your game screenshots and GIFs here -->
 ![Game Screenshot 1](previews/combo.gif)
+
 *Live spells in action*
 
 ![Game Screenshot 2](previews/fireball.png)
+
 *Fireball*
 
 ![Gameplay GIF](previews/heal.png)
+
 *Heal the nexus*
 
 ![Spell Effects](previews/icespike.png)
+
 *Ice spikes*
 
 ## Technologies Used
